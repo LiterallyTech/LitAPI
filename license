@@ -1,0 +1,36 @@
+LiterallyLicense1
+
+Version 1.0 — © 2025 LiterallyTech
+
+1. Ownership and Rights
+All materials distributed under this license, including but not limited to header files (.h), libraries (.lib), dynamic link libraries (.dll), documentation, and related resources (“the Software”), are the exclusive property of LiterallyTech. All rights are reserved unless explicitly granted below.
+
+2. License Grant
+LiterallyTech grants you a limited, non-exclusive, non-transferable, revocable license to use the Software for development and runtime purposes without modification.
+This license does not include rights to access, view, or distribute the Software’s source code, which remains proprietary.
+
+3. Restrictions
+You may not, under any circumstance:
+
+Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code or internal logic of the Software.
+
+Redistribute, resell, sublicense, or publicly share any part of the Software.
+
+Use the Software or any derivative of it in harmful, malicious, or illegal activities (including, but not limited to, creating or distributing malware or facilitating security breaches).
+
+Use or distribute any leaked, modified, or unauthorized versions of the Software.
+
+4. Updates and Support
+LiterallyTech may provide updates, patches, or new versions at its discretion. Continued use of the Software constitutes acceptance of updated terms, if any.
+
+5. Disclaimer of Warranty
+The Software is provided “as is”, without any warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non-infringement. You assume all risks associated with using the Software.
+
+6. Limitation of Liability
+In no event shall LiterallyTech or its affiliates be liable for any damages (including direct, indirect, incidental, or consequential damages) arising from the use or inability to use the Software, even if advised of the possibility of such damages.
+
+7. Termination
+LiterallyTech reserves the right to revoke this license at any time if the terms are violated. Upon termination, you must cease all use and delete all copies of the Software.
+
+8. Governing Law
+This license shall be governed and interpreted under the laws of your local jurisdiction unless otherwise specified by LiterallyTech.
