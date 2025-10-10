@@ -1,0 +1,29 @@
+The provided example.cpp lets you plug and play (kind of) to using LitAPI for the first time. Heres a short tutorial on how to do it:
+
+Step 1: Get the Files
+The user downloads your distribution package and gets these three files:
+
+litapi.h
+litapi.lib
+litapi.dll
+Step 2: Create a New Project
+In Visual Studio, they create a new Console App project.
+
+Step 3: Add Files to the Project
+
+They copy litapi.h into the project folder and add it to the project.
+They copy the code above into a new file called main.cpp.
+They copy litapi.lib into the project folder.
+Step 4: Configure the Linker
+
+Right-click the project -> Properties.
+Go to Linker -> Input -> Additional Dependencies.
+Add litapi.lib to the list.
+Step 5: Place the DLL for Runtime
+
+They must copy litapi.dll into the directory where the final .exe will be created (e.g., YourProject\x64\Debug).
+Step 6: Compile and Run
+
+They press F5 to build and run. The linker connects the calls in main.cpp to the litapi.lib file, and at runtime, the application loads litapi.dll to execute the actual code.
+
+I said this as if somebody were telling me what users would do, sorry about that. im not writing this much text
