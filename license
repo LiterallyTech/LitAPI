@@ -1,36 +1,57 @@
-LiterallyLicense1
+Literally-License-1
 
-Version 1.0 — © 2025 LiterallyTech
+License Version: 1.0 — © 2025 LiterallyTech (Indie Company)
 
-1. Ownership and Rights
-All materials distributed under this license, including but not limited to header files (.h), libraries (.lib), dynamic link libraries (.dll), documentation, and related resources (“the Software”), are the exclusive property of LiterallyTech. All rights are reserved unless explicitly granted below.
+1. Ownership
+
+The Software, including all executables, libraries, scripts, documentation, assets, and associated materials (collectively, “the Software”), is the exclusive property of LiterallyTech. All rights not expressly granted herein are reserved by LiterallyTech.
 
 2. License Grant
-LiterallyTech grants you a limited, non-exclusive, non-transferable, revocable license to use the Software for development and runtime purposes without modification.
-This license does not include rights to access, view, or distribute the Software’s source code, which remains proprietary.
+
+Subject to your compliance with this License, LiterallyTech grants you a limited, non-exclusive, non-transferable, revocable license to:
+
+Install and use the Software on your devices for personal or commercial development purposes.
+
+Execute the Software in runtime environments.
+
+This License does not grant you the right to access, modify, decompile, or redistribute the Software’s source code.
 
 3. Restrictions
-You may not, under any circumstance:
 
-Reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code or internal logic of the Software.
+You may not:
 
-Redistribute, resell, sublicense, or publicly share any part of the Software.
+Reverse engineer, decompile, disassemble, or attempt to derive the source code, underlying structure, or algorithms of the Software.
 
-Use the Software or any derivative of it in harmful, malicious, or illegal activities (including, but not limited to, creating or distributing malware or facilitating security breaches).
+Redistribute, sell, sublicense, lease, or otherwise provide the Software to third parties.
 
-Use or distribute any leaked, modified, or unauthorized versions of the Software.
+Use the Software in unlawful, malicious, or harmful activities, including malware creation, hacking, or security exploits.
 
-4. Updates and Support
-LiterallyTech may provide updates, patches, or new versions at its discretion. Continued use of the Software constitutes acceptance of updated terms, if any.
+Use or distribute unauthorized, modified, or leaked versions of the Software.
 
-5. Disclaimer of Warranty
-The Software is provided “as is”, without any warranty of any kind, express or implied, including but not limited to merchantability, fitness for a particular purpose, or non-infringement. You assume all risks associated with using the Software.
+4. Updates, Patches, and New Versions
 
-6. Limitation of Liability
-In no event shall LiterallyTech or its affiliates be liable for any damages (including direct, indirect, incidental, or consequential damages) arising from the use or inability to use the Software, even if advised of the possibility of such damages.
+LiterallyTech may provide updates, patches, or new versions of the Software at its sole discretion. Continued use of the Software constitutes acceptance of any updated terms.
 
-7. Termination
-LiterallyTech reserves the right to revoke this license at any time if the terms are violated. Upon termination, you must cease all use and delete all copies of the Software.
+5. Ownership of Feedback
 
-8. Governing Law
-This license shall be governed and interpreted under the laws of your local jurisdiction unless otherwise specified by LiterallyTech.
+Any feedback, suggestions, or contributions you provide regarding the Software become the sole property of LiterallyTech, and you hereby assign all rights, title, and interest in such feedback to LiterallyTech.
+
+6. Disclaimer of Warranty
+
+The Software is provided “as is”, without warranties of any kind, whether express, implied, or statutory, including but not limited to merchantability, fitness for a particular purpose, and non-infringement. Use of the Software is at your own risk.
+
+7. Limitation of Liability
+
+In no event shall LiterallyTech, its officers, employees, or affiliates be liable for any damages, whether direct, indirect, incidental, special, consequential, or punitive, arising out of or related to your use of the Software, even if advised of the possibility of such damages.
+
+8. Termination
+
+This License is effective until terminated. LiterallyTech may terminate this License immediately if you fail to comply with its terms. Upon termination, you must cease all use of the Software and delete all copies in your possession.
+
+9. Governing Law
+
+This License shall be governed by and construed in accordance with the laws of your jurisdiction unless otherwise specified by LiterallyTech.
+
+10. Entire Agreement
+
+This License constitutes the entire agreement between you and LiterallyTech regarding the Software and supersedes any prior agreements or understandings, written or oral, related to the Software.
